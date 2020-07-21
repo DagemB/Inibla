@@ -1,0 +1,90 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: whitesmoke;
+}
+
+header h3{
+    font-family: 'Merienda One', cursive; 
+    color: white;
+    /* text-align: center; */
+}
+
+.row-content {
+    text-align: center;
+}
+h2 {
+    padding: 40px;
+}
+.p-content {
+    font-size: 25px;
+    padding: 30px;
+    background-color: whitesmoke;
+    font-family: 'Raleway', sans-serif;
+}
+p{
+    font-family: 'Open Sans' sans-serif  ;
+    font-size: 20px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+footer {
+    background-image: linear-gradient(to bottom right, white, rgba(12, 111, 138));
+    padding: 20px 0;
+    font-size: 20px;
+  
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, rgba(12, 111, 138),rgba(16, 140, 173),rgba(30, 175, 214));
+    color: whitesmoke;
+}
+.carousel-caption {
+    font-family: 'Raleway', sans-serif;
+    background-color: rgba(159, 162, 166,); 
+    color: black;
+
+}
+
+.insta-logo-color {
+    color: #3F729B; 
+    font-size: 35px;
+}
+  
+  .facebook-logo-color {
+    color: #3B5998; 
+    font-size: 35px;
+}
+  
+  .twitter-logo-color {
+    color: #55ACEE; 
+    font-size: 35px;
+}
+  
+  .youtube-logo-color {
+    color: #DD4B39; 
+    font-size: 35px;
+}
+.navbar-brand {
+    font-size: 80px;
+    font-family: 'Merienda One', cursive;
+}
+
+.nav-item {
+    font-size: 25px;
+    padding: 40px;
+}
+
+#reserveModal .modal-header {
+    background-color:rgba(12, 111, 138);
+    color: white;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.card-title {
+    font-size: 25px;
+}

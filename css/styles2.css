@@ -1,0 +1,44 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    font-family: 'Merienda One', cursive;    
+    font-size: 70px;
+    font-style: bold;
+    /* text-align: center; */
+}
+/* .myclass:first-child {
+    text-align: center;
+} */
+ .row .span1 h2 {
+     text-align: center;
+ }
+
+ .row .span2 h2 {
+     text-align: right;
+ }
+header h3{
+    font-family: 'Merienda One', cursive; 
+    color: white;
+    /* text-align: center; */
+}
+p{
+    font-family: 'Open Sans' sans-serif  ;
+}
+footer {
+    background-image: linear-gradient(to bottom right, white, rgba(12, 111, 138));
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, rgba(12, 111, 138),rgba(16, 140, 173),rgba(30, 175, 214));
+    color: whitesmoke;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1ox ridge;
+    min-height: 200px;
+}
